@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vyClock {
+    background-image: url("Vy1.jpg");
+    height: 700px;
+    width: 400px;
+    background-size: cover;
+}
+
+.clockContainer {
+    border: 1px solid black;
+    width:fit-content;
+    background-color: #ffff;
+}
+
+.nextBtn,
+.specialBtn {
+    padding: 5px;
+}
+
+.love {
+    display: none;
+}
